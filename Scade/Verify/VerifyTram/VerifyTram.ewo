@@ -1,0 +1,47 @@
+
+[SCADE\Editor\Shortcut]
+
+"groupNb"="0" 
+
+[SCADE\Editor\Tool]
+
+"UsePolyline"="false" 
+"TransitionKind"="strong" 
+"McVersion"="MC66" 
+
+[SCADE\Diff\Tool]
+
+"LastProject1"="" 
+"LastProject2"="" 
+
+[SCADE\Generator\Tool]
+
+"PragmaTarget"="C" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Code Generator]
+
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\final\\TramwayDoorController\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\copyFinal\\TramwayDoorController\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+"C:\\Users\\57310\\Documents\\Github\\TramFormalVerification\\Scade\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Metrics and Rules Checker]
+
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\final\\TramwayDoorController\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\copyFinal\\TramwayDoorController\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+"C:\\Users\\57310\\Documents\\Github\\TramFormalVerification\\Scade\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Reporter]
+
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\final\\TramwayDoorController\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\copyFinal\\TramwayDoorController\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+"C:\\Users\\57310\\Documents\\Github\\TramFormalVerification\\Scade\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Timing and Stack Analysis Tools]
+
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\final\\TramwayDoorController\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\copyFinal\\TramwayDoorController\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+"C:\\Users\\57310\\Documents\\Github\\TramFormalVerification\\Scade\\Verify\\VerifyTram\\VerifyTram.etp"="Default" 
+
+[STUDIO\Workspace]
+
+"ActiveProject"="C:\\Users\\57310\\Documents\\Github\\TramFormalVerification\\Scade\\Verify\\VerifyTram\\VerifyTram.etp" 
