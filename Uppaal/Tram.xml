@@ -13,8 +13,8 @@ chan requestBridge, requestDoor;
 broadcast chan deployAction, endDeployAction, retractAction, endRetractAction, openAction, endOpenAction, closeAction, endCloseAction; </declaration>
 	<template>
 		<name>Controller</name>
-		<location id="id0" x="-561" y="-25">
-			<name x="-612" y="-51">start</name>
+		<location id="id0" x="-552" y="-25">
+			<name x="-603" y="-51">start</name>
 		</location>
 		<location id="id1" x="-389" y="-144">
 			<name x="-450" y="-187">OpeningDoor</name>
